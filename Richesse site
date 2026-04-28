@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+	<title>Menu Hamburger</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Bouton hamburger -->
+<div class="menu-icon" onclick="toggleMenu()">≡</div>
+
+<!-- Menu -->
+<nav id="menu">
+	<a href="Accueil.html">Acceuil</a><br/>
+	<a href="Apropos.html">Apropos</a></br/>
+	<a href="Services.html">Services</a><br/>
+	<a href="Contact.html">Contact</a>
+</nav>
+
+<script src="script.js"></script>
+
+</body>
+</html>
